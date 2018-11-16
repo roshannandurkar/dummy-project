@@ -24,7 +24,7 @@ public class ChattingApp {
         }
         catch (Exception ex) 
         {
-            JOptionPane.showMessageDialog(null, ex);
+            JOptionPane.showMessageDialog(null, ex+"NLT");
         }
     }
     
