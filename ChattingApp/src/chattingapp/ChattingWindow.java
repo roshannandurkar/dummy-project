@@ -52,7 +52,7 @@ public class ChattingWindow extends javax.swing.JFrame implements Runnable {
         sendButton = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Chatting Window 123");
+        setTitle("Chatting Window 456");
 
         jPanel1.setLayout(new java.awt.GridLayout(2, 2, 10, 10));
 
